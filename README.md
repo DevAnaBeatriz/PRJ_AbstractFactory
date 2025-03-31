@@ -6,12 +6,6 @@ Este projeto implementa o padrão de projeto **Abstract Factory** em Java, com u
 
 Demonstrar a aplicação do padrão Abstract Factory por meio de uma estrutura de código que cria famílias de objetos relacionados sem depender de suas classes concretas.
 
-## Estrutura do Projeto
-
-- `factories/`: contém a interface abstrata e as fábricas concretas
-- `products/`: contém os produtos abstratos e suas implementações
-- `App.java`: classe principal com o método `main()`
-
 ## Sobre o Abstract Factory
 
 O padrão Abstract Factory é útil quando:
